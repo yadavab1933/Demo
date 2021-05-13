@@ -8,7 +8,7 @@ public class BlackCoffee {
 	private Integer wasteedCoffeeQuantity = 0;
 	private Integer wastedWaterQuantity=12;
 	private Integer WastedSugarQuantity=2;
-	private double coffeePrice=10.0;
+	private double coffeePrice=30.0;
 	
 	
 	public Integer getCoffeeQuantity() {
